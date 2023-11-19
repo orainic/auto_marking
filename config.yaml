@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    jli:
+      email: jackli@hotmail.co.nz
+      name: Jack Li
+      password: abc # To be replaced with hashed password
+    orainic:
+      email: jack.li@orainic.com
+      name: Jack Li
+      password: def # To be replaced with hashed password
+cookie:
+  expiry_days: 30
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+    - orainic@gmail.com
