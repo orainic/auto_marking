@@ -3,9 +3,9 @@
 This repo serves as a simple app for marking uploaded exam papers.
 
 Examples：
-![en_article1.png](static\images\en_article1_output.png)
-![en.jpg](static\images\en_output.png)
-![en_article2.jpg](static\images\en_article2_output.png)
+![en_article1.png](static/images/en_article1_output.png)
+![en.jpg](static/images/images/en_output.png)
+![en_article2.jpg](static/images/en_article2_output.png)
 
 ## Development and Deployment
 
