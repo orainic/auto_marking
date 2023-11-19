@@ -1,6 +1,6 @@
 # Auto Marking Streamlit
 
-This repo serves as a simple app for how to marking a uploaded exam papers.
+This repo serves as a simple app for marking uploaded exam papers.
 
 ## Development and Deployment
 
